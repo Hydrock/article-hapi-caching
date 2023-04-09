@@ -1,0 +1,23 @@
+{
+  "name": "article-hapi-caching",
+  "version": "1.0.0",
+  "description": "Примеры кеширования в HapiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example_1": "node ./examples/client-side/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydrock/article-hapi-caching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydrock/article-hapi-caching/issues"
+  },
+  "homepage": "https://github.com/Hydrock/article-hapi-caching#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.1"
+  }
+}
